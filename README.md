@@ -338,7 +338,7 @@ MIT License - Feel free to use this project for learning and development.
 
 ## 👨‍💻 Author
 
-Built with ❤️ to demonstrate modern web development practices.
+Built by me Andrew Romany.
 
 ---
 
