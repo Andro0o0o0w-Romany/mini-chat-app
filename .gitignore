@@ -1,0 +1,56 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+venv/
+env/
+.env
+db.sqlite3
+*.sqlite3
+.python-version
+
+# Django
+*.log
+local_settings.py
+/media
+/staticfiles
+/static_root
+
+# Node
+node_modules/
+/frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp
+.pnp.js
+
+# React
+/frontend/build
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# Testing
+/coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+
