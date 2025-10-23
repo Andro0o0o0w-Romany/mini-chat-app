@@ -332,10 +332,6 @@ The frontend automatically refreshes JWT tokens when they expire, providing a se
 3. Serve build files with Nginx or similar
 4. Configure HTTPS
 
-## 🤝 Contributing
-
-This is a demo project showcasing full-stack development skills. Feel free to use it as a template for your own projects!
-
 ## 📄 License
 
 MIT License - Feel free to use this project for learning and development.
