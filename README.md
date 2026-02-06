@@ -334,7 +334,8 @@ The frontend automatically refreshes JWT tokens when they expire, providing a se
 
 ## 📄 License
 
-MIT License - Feel free to use this project for learning and development.
+Proprietary License - All Rights Reserved. See LICENSE file for details.
+This software is provided for viewing and reference purposes only.
 
 ## 👨‍💻 Author
 
